@@ -1,0 +1,19 @@
+body{
+    background: #AAAAAA;
+}
+div{
+    width: 300px;
+    height: 200px;
+}
+.blue{
+    background: #2980b9;
+    display: inline-block;
+}
+.white{
+    background: white;
+    display: inline-block; 
+}
+.red{
+    background: #c0392b;
+    display: inline-block; 
+}
